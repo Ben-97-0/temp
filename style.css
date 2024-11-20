@@ -1,0 +1,18 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: white;
+  padding: 50px 50px;
+  border-radius: 15px;
+}
+html {
+  padding: 20px 0px;
+  background: orange;
+}
+#link {
+  font-size: 10px;
+}
+img {
+  float: right;
+}
